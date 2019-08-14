@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ZedGraphSample">
+</Property><Property Name="Solution File" Value="D:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\ZedGraphSampleCS_v5_0_9\ZedGraphSampleCS_v5.0.9\ZedGraphSample.sln">
+</Property><Property Name="Date" Value="2 марта 2012 г.">
+</Property><Property Name="Time" Value="0:02">
+</Property></Properties><Event ErrorLevel="0" Project="ZedGraphSample" Source="ZedGraphSample\ZedGraphSample.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ZedGraphSample" Source="ZedGraphSample\ZedGraphSample.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ZedGraphSample.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ZedGraphSample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ZedGraphSample" Source="ZedGraphSample\ZedGraphSample.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

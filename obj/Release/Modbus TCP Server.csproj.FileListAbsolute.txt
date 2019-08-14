@@ -1,0 +1,24 @@
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\bin\Release\AutoOper.exe.config
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\bin\Release\AutoOper.exe.manifest
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\bin\Release\AutoOper.application
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\bin\Release\AutoOper.exe
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\bin\Release\AutoOper.pdb
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\bin\Release\ModbusTCP.dll
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\bin\Release\ZedGraph.dll
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\bin\Release\ModbusTCP.pdb
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\bin\Release\ModbusTCP.xml
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\obj\Release\ResolveAssemblyReference.cache
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\obj\Release\Modbus_TCP_Server.Form2.resources
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\obj\Release\Modbus_TCP_Server.Properties.Resources.resources
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\obj\Release\Modbus TCP Server.csproj.GenerateResource.Cache
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\obj\Release\AutoOper.exe.manifest
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\obj\Release\AutoOper.application
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\obj\Release\AutoOper.exe
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\obj\Release\AutoOper.pdb
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\bin\Release\ru-RU\AutoOper.resources.dll
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\obj\Release\ru-RU\AutoOper.resources.dll
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\bin\Release\ru\AutoOper.resources.dll
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\obj\Release\ru\AutoOper.resources.dll
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\obj\Release\Modbus_TCP_Server.Form1.resources
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\obj\Release\Modbus_TCP_Server.Form1.ru-RU.resources
+H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\obj\Release\Modbus_TCP_Server.Form1.ru.resources

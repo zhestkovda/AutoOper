@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Modbus TCP Server">
+</Property><Property Name="Файл решения" Value="H:\Projects(C#)\Modbus_TCP_class_demo\Modbus_TCP_class_demo\Modbus TCP Server\Modbus TCP Server.sln">
+</Property><Property Name="Date" Value="23 июня 2012 г.">
+</Property><Property Name="Time" Value="13:40">
+</Property><Property Name="Номер записи" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Modbus TCP Server" Source="Modbus TCP Server.csproj" Description="Файл проекта не нуждается в преобразовании.">
+</Event><Event ErrorLevel="3" Project="Modbus TCP Server" Source="Modbus TCP Server.csproj" Description="Преобразование не требуется">
+</Event><Event ErrorLevel="0" Project="" Source="Modbus TCP Server.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="Modbus TCP Server.sln" Description="Converted">
+</Event></UpgradeLog>
